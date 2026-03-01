@@ -2,7 +2,7 @@ Hello, all readers! My name is Ali and this is my home lab learning experience.
 
 **Who Am I?**
 
-Currently, I work as an IT Support technician, and I want to begin setting a concrete foundation for the next stage of my career. I graduated from Virginia Tech with a degree in Business Information Technology, with a concentration in Cybersecurity and Analytics. I recently acquired my CompTIA Security+ certification. In the future, I am interested in potentially acquiring a masters in cybersecurity and additional certifications such as my CCNA and CISSP. However, for the time being, I want to give myself the opportunity to grow familiar with relevant tools that I might use in my career, and to demonstrate my technical writing proficiency. 
+Currently, I work as an IT Support Technician, and I want to begin setting a concrete foundation for the next stage of my career. I graduated from Virginia Tech with a degree in Business Information Technology, with a concentration in Cybersecurity and Analytics. I recently acquired my CompTIA Security+ certification. In the future, I am interested in potentially acquiring a masters in cybersecurity and additional certifications such as my CCNA and CISSP. However, for the time being, I want to give myself the opportunity to grow familiar with relevant tools that I might use in my career, and to demonstrate my technical writing proficiency. 
 
 **What is a Home Lab?**
 
